@@ -11,7 +11,7 @@ body {
   align-items: center;
 }
 .bg-image {
-  background-image: url(./img/Img_1.png);
+  background-image: url("https://images.unsplash.com/photo-1613284877439-7b8f58349a71?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80");
   background-size: cover;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.434);
   width: 80vw;
