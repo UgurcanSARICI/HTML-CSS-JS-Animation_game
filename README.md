@@ -44,21 +44,9 @@ HTML-CSS-JS-Animation_game(folder)
 ### Built with
 - CSS Animation
 - JS DOM Manipulation
-- Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-	
-- HTML Forms-Input Types 
 
-- HTML Form Elements
 
-- CSS Colors-Border Properties
-
-- CSS Margins-Padding
-
-- CSS Properties for Texts-Font Families-Links
 
 
 ## Notes
